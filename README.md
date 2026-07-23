@@ -5,7 +5,7 @@
 🛠️ Tech Stack: HTML, CSS, Python, C++, SQL, Pandas, NumPy  
 📊 Exploring ML models & problem-solving through DSA  
 🚀 Building projects, fixing bugs, and learning step by step
-🌐 My Linkdeln (https://www.linkedin.com/in/janvi-712541340?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 ## 🌐 Socials:
